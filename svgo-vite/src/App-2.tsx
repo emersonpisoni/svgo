@@ -8,8 +8,8 @@ export function App2() {
     <div>
       <Logo width={200} className="text-blue-500" />
       {/* <img src={Logo} alt="logo" /> */}
-      {/* <img src={dirty} alt="ícone" />
-      <img src={dirty2} alt="ícone 2" /> */}
+      {/* <img src={dirty} alt="icon" />
+      <img src={dirty2} alt="icon 2" /> */}
     </div>
   );
 }
