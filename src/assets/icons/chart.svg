@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- This is a bar chart icon for the analytics dashboard section -->
+<!-- Reviewed by: @tech-lead on 2024-02-28 -->
+<svg version="1.1" id="Chart_Analytics_Bar_Icon_Dashboard_v2" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.0.dtd"
+     x="0.00000000px" y="0.00000000px"
+     width="24.00000000px" height="24.00000000px"
+     viewBox="0.00000000 0.00000000 24.00000000 24.00000000"
+     style="enable-background:new 0 0 24 24;"
+     xml:space="preserve">
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666"/>
+<metadata>
+  <rdf:RDF>
+    <cc:Work rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dc:title>Bar Chart Analytics</dc:title>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<defs>
+  <style type="text/css">
+    .chart-bar-line-style-cls{fill:none;stroke:#ffffff;stroke-width:2.00000000;stroke-linecap:round;stroke-linejoin:round;}
+  </style>
+  <pattern id="chart_unused_pattern" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="4" fill="#f0f0f0"/>
+  </pattern>
+</defs>
+<g id="Chart_Outer_Container" transform="translate(0.00000000, 0.00000000)" opacity="1.00000000">
+  <g id="Chart_Inner_Container" transform="translate(0, 0)">
+    <g id="Chart_Bars_Group">
+      <line class="chart-bar-line-style-cls" x1="18.00000000" y1="20.00000000" x2="18.00000000" y2="10.00000000"/>
+      <line class="chart-bar-line-style-cls" x1="12.00000000" y1="20.00000000" x2="12.00000000" y2="4.00000000"/>
+      <line class="chart-bar-line-style-cls" x1="6.00000000" y1="20.00000000" x2="6.00000000" y2="14.00000000"/>
+    </g>
+  </g>
+</g>
+<g id="chart_grid_overlay" display="none" opacity="0">
+  <line x1="0" y1="10" x2="24" y2="10" stroke="#eee" stroke-dasharray="2,2"/>
+  <line x1="0" y1="15" x2="24" y2="15" stroke="#eee" stroke-dasharray="2,2"/>
+  <line x1="0" y1="20" x2="24" y2="20" stroke="#eee" stroke-dasharray="2,2"/>
+</g>
+</svg>

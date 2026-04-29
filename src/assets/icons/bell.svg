@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Figma Export Plugin v3.2.1 -->
+<!-- File: Notification System Components -->
+<!-- Page: Icons / Notification / Bell -->
+<!-- Last sync: 2024-03-01T09:15:00Z -->
+<svg version="1.1" id="Bell_Notification_Icon_Final_v3" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     x="0.00000000px" y="0.00000000px"
+     width="24.00000000px" height="24.00000000px"
+     viewBox="0.00000000 0.00000000 24.00000000 24.00000000"
+     style="enable-background:new 0 0 24 24;"
+     xml:space="preserve">
+<metadata>
+  <rdf:RDF>
+    <cc:Work rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dc:title>Bell Notification</dc:title>
+      <dc:description>Used in the top navigation bar for notification alerts</dc:description>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<defs>
+  <style type="text/css">
+    .bell-notification-stroke-style{fill:none;stroke:#ffffff;stroke-width:2.00000000;stroke-linecap:round;stroke-linejoin:round;}
+  </style>
+  <filter id="bell_shadow_unused">
+    <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.1"/>
+  </filter>
+  <clipPath id="bell_clip_unused">
+    <circle cx="12" cy="12" r="12"/>
+  </clipPath>
+</defs>
+<g id="Bell_Container_Outer" transform="translate(0.00000000, 0.00000000)" opacity="1.00000000">
+  <g id="Bell_Container_Inner" transform="translate(0, 0)">
+    <g id="Bell_Body_Group">
+      <path class="bell-notification-stroke-style" d="M 18.00000000,8.00000000 C 18.00000000,4.68629150 15.31370850,2.00000000 12.00000000,2.00000000 C 8.68629150,2.00000000 6.00000000,4.68629150 6.00000000,8.00000000 C 6.00000000,15.00000000 3.00000000,17.00000000 3.00000000,17.00000000 L 21.00000000,17.00000000 C 21.00000000,17.00000000 18.00000000,15.00000000 18.00000000,8.00000000 Z"/>
+    </g>
+    <g id="Bell_Clapper_Group">
+      <path class="bell-notification-stroke-style" d="M 13.73000000,21.00000000 C 13.37260000,21.62320000 12.71000000,22.00000000 12.00000000,22.00000000 C 11.29000000,22.00000000 10.62740000,21.62320000 10.27000000,21.00000000"/>
+    </g>
+  </g>
+</g>
+<!-- Animation keyframes (unused, kept for potential future use) -->
+<!-- @keyframes ring { 0% { transform: rotate(0); } 100% { transform: rotate(15deg); } } -->
+<rect id="bell_touch_target" x="-2" y="-2" width="28" height="28" fill="none" stroke="none" opacity="0"/>
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Exported from Figma file: Dashboard Components v4.1.3 -->
+<!-- Author: design@company.com | Reviewed: tech-lead@company.com -->
+<svg version="1.1" id="User_Profile_Icon_v2_final_FINAL" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.0.dtd"
+     x="0.00000000px" y="0.00000000px"
+     width="24.00000000px" height="24.00000000px"
+     viewBox="0.00000000 0.00000000 24.00000000 24.00000000"
+     style="enable-background:new 0 0 24 24;"
+     xml:space="preserve">
+<sodipodi:namedview bordercolor="#666666" borderopacity="1" pagecolor="#ffffff"/>
+<metadata>
+  <rdf:RDF>
+    <cc:Work rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dc:title>User Profile Icon</dc:title>
+      <dc:creator>Design System Team</dc:creator>
+      <dc:date>2024-02-10</dc:date>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<defs>
+  <style type="text/css">
+    .user-icon-path-style-class-v2{fill:none;stroke:#ffffff;stroke-width:2.00000000;stroke-linecap:round;stroke-linejoin:round;}
+  </style>
+  <clipPath id="user_clip_unused">
+    <rect x="0" y="0" width="24" height="24"/>
+  </clipPath>
+  <mask id="user_mask_unused">
+    <rect x="0" y="0" width="24" height="24" fill="white"/>
+  </mask>
+  <filter id="user_filter_unused">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="0"/>
+  </filter>
+</defs>
+<g id="User_Icon_Container_Group_Level_1" transform="translate(0.00000000, 0.00000000)" opacity="1.00000000">
+  <g id="User_Icon_Inner_Group_Level_2" transform="translate(0, 0)">
+    <g id="User_Icon_Head_Group">
+      <path class="user-icon-path-style-class-v2" d="M 20.00000000,21.00000000 L 20.00000000,19.00000000 C 20.00000000,16.79086000 18.20914000,15.00000000 16.00000000,15.00000000 L 8.00000000,15.00000000 C 5.79086000,15.00000000 4.00000000,16.79086000 4.00000000,19.00000000 L 4.00000000,21.00000000"/>
+    </g>
+    <g id="User_Icon_Avatar_Group">
+      <circle class="user-icon-path-style-class-v2" cx="12.00000000" cy="7.00000000" r="4.00000000"/>
+    </g>
+  </g>
+</g>
+<!-- Old version kept for reference -->
+<!-- <circle cx="12" cy="7" r="4" fill="none" stroke="black"/> -->
+<!-- TODO: Remove this before production -->
+<rect id="user_debug_hitarea" x="0" y="0" width="24" height="24" fill="none" stroke="none" opacity="0" pointer-events="all"/>
+</svg>
