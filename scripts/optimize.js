@@ -8,7 +8,6 @@ const files = readdirSync(iconsDir).filter((f) => f.endsWith('.svg'));
 let totalBefore = 0;
 let totalAfter = 0;
 
-console.log('\n🔍 SVGO — Node.js API Demo\n');
 console.log('-'.repeat(50));
 
 for (const file of files) {
